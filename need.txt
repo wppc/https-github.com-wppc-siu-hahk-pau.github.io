@@ -1,0 +1,16 @@
+second grade
+#45 clean - small gif (done)
+#47 to work - wave not working
+#57 to forgive - wave not working
+#90 earth - wave not working
+#105 seed - wave not working
+#115 to swim - wave not working
+#128 not many - wave not working
+#146 always - wave not working
+#164 sprout - wave not working
+
+third grade
+#25 view; scene - wave not working
+#69 Lunar New Year - small gif wrong size (done)
+#77 festival - small gif wrong size (done)
+#154 behind - missing second character 
